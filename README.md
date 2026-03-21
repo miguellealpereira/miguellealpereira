@@ -38,9 +38,8 @@
       align="left" 
       alt="HTML"
       title="HTML" 
-      width="90px" 
-      style="padding-right: 10px;" 
-       src="https://github.com/user-attachments/assets/0fa446c2-cb03-4ce1-b7d5-7f65561a72cc"
+      width="200px" 
+      src="https://github.com/user-attachments/assets/0fa446c2-cb03-4ce1-b7d5-7f65561a72cc"
       />
 </div>
 
