@@ -33,13 +33,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
-  <video
-      align="right" 
-      alt="HTML"
-      title="HTML" 
-      width="200px" 
-      src="https://github.com/user-attachments/assets/0fa446c2-cb03-4ce1-b7d5-7f65561a72cc"
-      ></video>
 
 
 <br><br>
