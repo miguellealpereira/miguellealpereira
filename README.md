@@ -35,7 +35,7 @@
 
 <div align="right">
   <img 
-    align="left" 
+    align="right" 
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
