@@ -32,7 +32,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<br><br>
 <img 
     align="left"
     alt="PHP" 
@@ -41,7 +40,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
+##
 <div align="right">
   <img 
     align="right" 
