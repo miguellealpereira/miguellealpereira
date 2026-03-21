@@ -33,11 +33,9 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
-![PinDown io_@mehmetcengoz16_1774119864](https://github.com/user-attachments/assets/04d0a99f-2ac4-482f-8e8a-96adaff5c7d6)
-![tenor](https://github.com/user-attachments/assets/76ab2da7-0e4e-4ce9-b770-35af6774b3ba)
 
 
-<br><br>
+
 <br><br>
 
 ##
