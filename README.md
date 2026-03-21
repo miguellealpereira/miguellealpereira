@@ -33,9 +33,11 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <br><br>
+
 ##
 
-<img src="https://raw.githubusercontent.com/miguellealpereira/gitrepo/output/snake.svg" alt="Snake animation" />
+<br><br>
+<img src="https://raw.githubusercontent.com/miguellealpereira/miguellealpereira/output/snake.svg" alt="Snake animation" />
 
 
 
