@@ -33,8 +33,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
-.![gif](https://github.com/user-attachments/assets/2efbd14c-78eb-4a5c-a88e-cab264bc2536)
-
+![gif](Downloads/![PinDown io_@mehmetcengoz16_1774119864](https://github.com/user-attachments/assets/e26668e3-5650-41b2-8682-6e944245cb28)
+)
 
 <br><br>
 <br><br>
