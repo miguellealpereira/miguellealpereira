@@ -33,8 +33,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
-![gif](Downloads/![PinDown io_@mehmetcengoz16_1774119864](https://github.com/user-attachments/assets/e26668e3-5650-41b2-8682-6e944245cb28)
-)
+<div class="tenor-gif-embed" data-postid="19927167" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/soul-eater-crona-cry-anime-gif-19927167">Soul Eater Crona GIF</a>from <a href="https://tenor.com/search/soul+eater-gifs">Soul Eater GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <br><br>
 <br><br>
