@@ -42,15 +42,6 @@
 />
 <br><br>
 ##
-<img
-    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-/>
-<img 
-      align="right" 
-      alt="GitHub Stats" 
-      height="130" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguellealpereira&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8" 
-  />
 
 </div>
 
