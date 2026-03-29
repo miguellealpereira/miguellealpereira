@@ -34,6 +34,10 @@
   <img alt="[Icon]" height="60" width="60" style="padding-right: 10px;"  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg"> 
   </a>
 
+  <a href="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
+  <img alt="[Icon]" height="60" width="60" style="padding-right: 10px;"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"> 
+  </a>
+
 </div>
 
 
