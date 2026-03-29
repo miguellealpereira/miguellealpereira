@@ -17,6 +17,10 @@
    <a href="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg">
     <img alt="[Icon]" height="60" width="60" style="padding-right: 10px;"  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg"> 
   </a>
+
+  <a href="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg">
+    <img alt="[Icon]" height="60" width="60" style="padding-right: 10px;"  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg"> 
+  </a>
 </div>
 
 
