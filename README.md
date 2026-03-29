@@ -46,7 +46,7 @@
     title="c"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/miguellealpereira/miguellealpereira/issues/4"
+    src="https://github.com/miguellealpereira/miguellealpereira/issues/4#issue-4162042586"
 <br><br>
 ##
 
