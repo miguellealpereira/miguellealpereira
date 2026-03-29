@@ -46,7 +46,7 @@
     title="c"
     width="30px" 
     style="padding-right: 10px;" 
-    ![Image](https://github.com/user-attachments/assets/3d3acc4b-9f6e-4b76-9b18-f1d9414c86d1)
+    src="https://github.com/user-attachments/assets/3d3acc4b-9f6e-4b76-9b18-f1d9414c86d1"
 <br><br>
 ##
 
