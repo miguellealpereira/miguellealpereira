@@ -40,13 +40,12 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left"
-    alt="c" 
-    title="c"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/miguellealpereira/miguellealpereira/issues/4#issue-4162042586"
+
+<div align="center">
+  <a href="https://github.com/gui-bus/TechIcons/blob/main/Dark/C%2B%2B.svg">
+    <img alt="[Icon]" height="60" width="60" style="padding-right: 10px;"  src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C%2B%2B.svg"> 
+  </a>
+</div>
 <br><br>
 ##
 
