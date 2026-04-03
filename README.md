@@ -42,9 +42,11 @@
   <img alt="[Icon]" height="60" width="60" style="padding-right: 10px;"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mint-Dark.svg"> 
   </a>
 
+  <img align="right" alt="" height="190px"  style="padding-right: 10px;" src="./src/girl.gif">
+
 </div>
 
-<img align="right" alt="" height="190px"  style="padding-right: 10px;" src="./src/girl.gif">
+
 
 
 ##
