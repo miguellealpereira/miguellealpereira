@@ -50,7 +50,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=miguellealpereira&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&locale=pt-br" 
   />
